@@ -1,0 +1,4 @@
+*.log
+*.pass
+*.message
+vendor/
