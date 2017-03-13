@@ -1,4 +1,4 @@
-Pequeños Aventureros
+Pequeños Aventureras
 =====================
 
 Create small adventurers. Create small bands of adventurers. Teach your small
